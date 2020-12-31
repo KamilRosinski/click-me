@@ -29,4 +29,5 @@ body {
     background-color: blue;
     color: white;
     border: none;
+    outline: none;
 }
