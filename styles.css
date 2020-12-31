@@ -14,7 +14,7 @@ body {
     background-color: lightblue;
 }
 
-#inner-box {
+#playground {
     height: 100%;
     position: relative;
 }
@@ -27,7 +27,6 @@ body {
     position: absolute;
     font-size: 40px;
     background-color: blue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    color: white;
+    border: none;
 }
